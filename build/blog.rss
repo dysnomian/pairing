@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+  <title>Eristic Code Pairing Server</title>
+  <link>http://pairing.eristiccode.com</link>
+  <description>How to use this server</description>
+  <lastBuildDate>2015-05-11 03:22:01</lastBuildDate>
+  <language>en-us</language>
+<item>
+  <title>Mumble instructions</title>
+  <description>[CDATA[ A new blog post ]]</description>
+  <pubDate>2015-05-10</pubDate>
+  <link>http://pairing.eristiccode.com/2015-05-10-mumble-instructions.html</link>
+  <guid>http://pairing.eristiccode.com/2015-05-10-mumble-instructions.html</guid>
+</item>
+</channel>
+</rss>
